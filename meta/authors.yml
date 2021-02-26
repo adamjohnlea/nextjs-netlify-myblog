@@ -1,6 +1,4 @@
 authors:
-  - slug: wutali
-    name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
-      Python / Golang / React
+  - slug: adam
+    name: Adam
+    introduction: I'm Adam, the owner of this blog and on a journey to learn Nextjs!
